@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/DNUGPaderborn/DNUGPaderborn/bin
+/src/DNUGPaderborn/DNUGPaderborn/obj
+/src/DNUGPaderborn/packages
+/src/DNUGPaderborn/DNUGPaderborn/DNUGPaderborn.csproj.user
+/src/DNUGPaderborn/DNUGPaderborn/App_Data
+/src/DNUGPaderborn/.vs
